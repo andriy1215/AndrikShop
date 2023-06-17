@@ -1,0 +1,192 @@
+body{
+    background-color: #A168D5;
+    color: white;
+}
+
+.pro p{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.pro h1{
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+}
+
+.logo{
+    width: 300px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+
+
+header{
+    background-color: #600CAC;
+    display: flex;
+
+}
+
+nav a{
+    border-radius: 5px;
+    background: #3C0470;
+    padding: 10px 40px 10px 40px;
+    margin-left: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+}
+
+nav{
+    text-decoration: none;
+    margin-top: 150px;
+    margin-left: 300px;
+
+
+}
+
+nav a:hover{
+    color: #A668D5 ;
+    border: #A668D5 2px solid;
+    transition: all 0.1s;
+}
+
+
+
+
+.akci{
+    border-radius: 5px;
+    background: #3C0470;
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    display: inline;
+    margin-left: 850px;
+    margin-top: 10px;
+}
+
+
+main{
+    padding-top:20px;
+}
+
+.pro{
+    background-color:#600CAC;
+    border-radius: 20px;
+    width: 1500px;
+    height: 550px;
+    margin-top: 50px;
+}
+
+.pro:hover{
+    border: #592680 5px solid;
+    transition: all 0.1s;
+}
+
+
+
+footer{
+    background-color: #3C0470;
+    margin-top: 50px;
+    color: white;
+    height: 550px;
+    padding-top: 10px;
+    
+
+}
+
+.footer{
+    border-radius: 20px;
+    width: 350px;
+    background-color: #600CAC;
+    font-size: 25px;
+    margin-bottom: 500px;
+    margin-left: 10px; 
+    position: absolute;
+
+}
+
+.footera{
+    border-radius: 20px;
+    width: 500px;
+    height: 420px;
+    background-color: #600CAC;
+    font-size: 25px;
+    
+    margin-left: 680px; 
+    position: absolute;
+
+}
+
+.footers{
+    border-radius: 20px;
+    width: 500px;
+    height: 450px;
+    background-color: #600CAC;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 1350px; 
+    position: absolute;
+
+}
+
+.q{
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    
+}
+
+.q{
+    font-size: 25px;
+    color: white;
+    margin-left: 10px;
+}
+
+
+
+
+.QWSD{
+    margin-top: 10px;
+    margin-left:10px ;
+    
+}
+
+.footera p{
+    margin-left:10px ;
+
+}
+.footer p{
+    margin-left:10px ;
+
+}
+
+.as{
+    margin-left: 10px;
+}
+
+.footer:hover{
+    border: #592680 5px solid;
+    transition: all 0.1s;
+}
+
+.footera:hover{
+    border: #592680 5px solid;
+    transition: all 0.1s;
+}
+
+.footers:hover{
+    border: #592680 5px solid;
+    transition: all 0.1s;
+}
+
+.footers a:hover{
+    color: #A668D5;
+    transition: all 0.1s;
+}
