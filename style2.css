@@ -3,9 +3,10 @@ body{
 }
 
 .logo{
-    width: 300px;
+    width: 100px;
     margin-bottom: 30px;
     display: block;
+    margin-top: 10px;
 }
 
 
@@ -31,11 +32,12 @@ nav a{
 
 nav{
     text-decoration: none;
-    margin-top: 150px;
-    margin-left: 300px;
+    margin-top: 50px;
+    margin-left: 500px;
 
 
 }
+
 
 nav a:hover{
     color: #A668D5 ;
@@ -252,6 +254,7 @@ footer{
     color: white;
     height: 550px;
     padding-top: 10px;
+    padding: 20px;
     
 
 }
