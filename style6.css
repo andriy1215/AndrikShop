@@ -79,10 +79,21 @@ main{
 .pro{
     background-color:#600CAC;
     border-radius: 20px;
-    width: 1500px;
-    height: 550px;
+    width: 80%;
+    height: 1100px;
     margin-top: 50px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
 }
+
+main .pro{
+
+  justify-content: center;
+}
+
+
 
 .pro:hover{
     border: #592680 5px solid;
@@ -93,7 +104,7 @@ main{
 
 footer{
     background-color: #3C0470;
-    margin-top: 50px;
+    margin-top: 100px;
     color: white;
     height: 550px;
     padding-top: 10px;
