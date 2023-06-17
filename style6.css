@@ -15,9 +15,10 @@ body{
 }
 
 .logo{
-    width: 300px;
+    width: 100px;
     margin-bottom: 30px;
     display: block;
+    margin-top: 10px;
 }
 
 
@@ -43,8 +44,8 @@ nav a{
 
 nav{
     text-decoration: none;
-    margin-top: 150px;
-    margin-left: 300px;
+    margin-top: 50px;
+    margin-left: 500px;
 
 
 }
@@ -80,7 +81,7 @@ main{
     background-color:#600CAC;
     border-radius: 20px;
     width: 80%;
-    height: 1100px;
+    height: 1880px;
     margin-top: 50px;
     text-align: center;
     margin-left: 10%;
@@ -104,11 +105,11 @@ main .pro{
 
 footer{
     background-color: #3C0470;
-    margin-top: 100px;
+    margin-top: 50px;
     color: white;
     height: 550px;
     padding-top: 10px;
-    
+    padding: 20px;
 
 }
 
