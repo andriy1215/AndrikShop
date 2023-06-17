@@ -6,6 +6,7 @@ body{
     width: 100px;
     margin-bottom: 30px;
     display: block;
+    margin-top: 10px;
 }
 
 
@@ -31,7 +32,7 @@ nav a{
 
 nav{
     text-decoration: none;
-    margin-top: 550px;
+    margin-top: 50px;
     margin-left: 500px;
 
 
@@ -230,7 +231,7 @@ footer{
     color: white;
     height: 550px;
     padding-top: 10px;
-    
+    padding: 20px;
 
 }
 
